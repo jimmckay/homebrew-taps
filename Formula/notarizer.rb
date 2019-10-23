@@ -1,8 +1,8 @@
 class Notarizer < Formula
   desc "Notarize and Staple App or DMG"
   homepage "https://github.com/jimmckay/notarizer/"
-  url "https://github.com/jimmckay/notarizer/archive/1.0.0.2.tar.gz"
-  sha256 "7581c93cdc63ff5b925b8e12b0c256660ea6a0ecc7d62889701320373e0414a5"
+  url "https://github.com/jimmckay/notarizer/archive/1.0.0.3.tar.gz"
+  sha256 "7c837cd578574ef77fa322ad0b3895507679e4be47fbfd67e123ead678c979b6"
 
   def install
     bin.install "notarizer"
